@@ -14,8 +14,8 @@ output_data/ folder consists of output files
 Note: specify the path properly in code for input and output data
 
 ## Assignment 1 -
-1. Camera Calibration
-  1.1 DLT Method
+1. Camera Calibration 
+  -- 1.1 DLT Method
   1.2 RANSAC based variant
 2. Zhang's Method for Camera Calibration
 3. Generating wireframe and plotting world origin.
