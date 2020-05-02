@@ -21,3 +21,18 @@ Note: specify the path properly in code for input and output data
 3. Generating wireframe and plotting world origin.
 <br/>
 input_data/ folder consists of input files
+
+## Assignment 2 -
+1. Image Mosaicing
+2. Stereo Correspondences
+
+## Assignment 3 -
+1. GrabCut
+
+## Assignment 4 - 
+1. Calssification using CNN
+
+## Assignment 5 -
+1. Lucas-Kanade optical ﬂow algorithm --
+  1.1 Detection and segmentation of moving objects in a video 
+  1.2 Tracking of objects in a video sequence
