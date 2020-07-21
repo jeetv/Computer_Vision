@@ -30,7 +30,7 @@ input_data/ folder consists of input files
 1. GrabCut
 
 ## Assignment 4 - 
-1. Calssification using CNN
+1. Classification using CNN (CIFAR 100 Dataset)
 
 ## Assignment 5 -
 1. Lucas-Kanade optical ﬂow algorithm --
